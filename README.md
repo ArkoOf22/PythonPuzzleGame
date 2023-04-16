@@ -1,4 +1,6 @@
-#Hey Lets enjoy the game
+Hey Lets enjoy the game
+
+Its written completely in Python
 
 To enjoy the game you need to install a few libraries
 
